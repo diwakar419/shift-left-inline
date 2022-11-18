@@ -201,8 +201,7 @@
   "Outputs" : {
     "Instance" : {
       "Value" : { "Fn::GetAtt" : [ "EC2Instance", "PublicDnsName" ] }, 
-      "Description" : "DNS Name of the newly created EC2 instance"
+      "Description" : "DNS Name of the newly created EC2 instance1"
     }
   }
 }
-
